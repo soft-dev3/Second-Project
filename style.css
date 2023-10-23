@@ -1,4 +1,47 @@
 body{
+    margin: 0;
     font-family: 'Lato', sans-serif;
 font-family: 'Poppins', sans-serif;
+}
+.h1-font-size{
+    font-size: 30px;
+}
+h1{
+    font-size: 900;
+}
+p{
+    color: dimgray;
+}
+.name-collor{
+    color: #EC4C7A;
+}
+section{
+    height: 900px;
+}
+.button{
+text-decoration:none;
+background-image: linear-gradient(45deg,rgb(25, 89, 226), rgb(15, 206, 196));
+font-weight: 700;
+color: white;
+border-radius: 5px;
+padding: 10px 20px;
+
+}
+
+.half-wide{
+    float: left;
+    width: 40%;
+    height: 650px;
+    margin: 80px;
+    padding: 10px;
+}
+.half-wide img{
+   width: 100%;
+}
+.top-banner{
+    background-image: url(image/header-bg.png);
+}
+
+.middel-bannar{
+ background-image: url(image/biography-bg.png);
 }
