@@ -7,7 +7,10 @@ font-family: 'Poppins', sans-serif;
     font-size: 30px;
 }
 h1{
-    font-size: 900;
+    font-size: 30px;
+}
+h3{
+    font-size:15px;
 }
 p{
     color: dimgray;
@@ -45,3 +48,31 @@ padding: 10px 20px;
 .middel-bannar{
  background-image: url(image/biography-bg.png);
 }
+.last-title{
+    text-align: center;
+}
+.last-bannar{
+    background-image: url(image/latest-work-bg.png);
+    height: 700px;
+    background-repeat: no-repeat;
+    padding: 50px 250px 0px 250px;
+}
+
+.work{
+    width: 400px;
+}
+
+.third-half{
+    float: left;
+    padding: 20px;
+    margin-left: 20px;
+    align-items: center;
+}
+
+.footer-div1{
+    text-align: center;
+}
+.footer{
+    background-image: url(image/footer-bg.png);   
+}
+
